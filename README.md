@@ -33,8 +33,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majortom3k1m&layout=compact&hide=html" alt="majortom3k1m" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=majortom3k1m&show_icons=true" alt="majortom3k1m" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majortom3k1m&layout=compact&hide=html" alt="majortom3k1m" /></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=majortom3k1m&show_icons=true" alt="majortom3k1m" /></p>
 
 
 <!--
