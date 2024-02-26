@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakkarin Mitvongsa</h1>
-<h3 align="center">A fresh graduate passionate Fullstack developer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majortom3k1m" alt="majortom3k1m" /> </p>
 
