@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning to improve my Backend skill.
 - 📫 How to reach me: **jakkarin.mike@gmail.com**
+- 🌐 About me: **portfolio.jkrn.me**
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majortom3k1m&layout=compact&hide=html" alt="majortom3k1m" /></p>
 <br />
